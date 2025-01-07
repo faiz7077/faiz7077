@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=39AF14&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality+with+code!;Building+scalable+and+robust+solutions+🌟;    Exploring+the+world+of+AI,+Web3,+and+Web+Development+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=39AF14&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality+with+code!;Building+scalable+and+robust+solutions+🌟;Exploring+the+world+of+AI,+ML,+and+Web+Development+✨" />
 </p>
 
 ---
