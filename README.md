@@ -4,14 +4,14 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=39FF14&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality+with+code!;Building+scalable+and+robust+solutions+🌟;Exploring+the+world+of+AI,+ML,+and+Web+Development+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=39AF14&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality+with+code!;Building+scalable+and+robust+solutions+🌟;Exploring+the+world+of+AI,+ML,+Web3,+and+Web+Development+✨" />
 </p>
 
 ---
 
 <h2>🌟 About Me</h2>
 <ul>
-  <li>🌍 Based in <strong>Mumbai, India</strong></li>
+  <li>🌍 Based in <strong>Indore, India</strong></li>
   <li>💻 Currently working on <strong>Corina AI</strong>, an AI-powered SaaS for advertisement integration</li>
   <li>📚 Always learning and exploring <strong>Cloud Computing, DevOps, and AI</strong></li>
   <li>🤝 Looking to collaborate on exciting <strong>open-source projects</strong></li>
