@@ -74,10 +74,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faiz7077&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz7077&" alt="GitHub Streak Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz7077&" alt="GitHub Streak Stats" /> -->
+   <img src=" https://github-readme-stats.vercel.app/api?username=faiz7077&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+ 
 </p>
-
----
 
 <h2>🌐 Where to Find Me</h2>
 <p align="center">
