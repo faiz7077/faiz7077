@@ -12,7 +12,7 @@
 <h2>🌟 About Me</h2>
 <ul>
   <li>🌍 Based in <strong>Indore, India</strong></li>
-  <li>💻 Currently working on <strong>Corina AI & Opul</strong>, an AI-powered SaaS for advertisement integration</li>
+  <li>💻 Currntly working on <strong>Corina AI & Opul</strong>, an AI-powered SaaS for advertisement integration</li>
   <li>📚 Always learning and exploring <strong>Cloud Computing, DevOps, and AI</strong></li>
   <li>🤝 Looking to collaborate on exciting <strong>open-source projects</strong></li>
 </ul>
