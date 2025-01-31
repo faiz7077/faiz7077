@@ -96,6 +96,17 @@
 </p>
 
 
+<h1 align="center">Hii 👋, I'm Faizan Shaikh</h1>
+<h3 align="center">A passionate Full-Stack Developer 🚀</h3>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=D3FAD6&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality+with+code!;Building+scalable+and+robust+solutions+🌟;Exploring+world+of+AI+and+Web+Development+✨" />
+</p>
+
+---
+
 
 # 💫 About Me:
 🌟 About Me<br>🌍 Based in Indore, India<br>💻 Currently working on Corina AI & Opul, an AI-powered SaaS for advertisement integration<br>📚 Always learning and exploring Cloud Computing, DevOps, and AI<br>🤝 Looking to collaborate on exciting open-source projects
