@@ -41,3 +41,76 @@
   🚀 "Keep coding, keep growing!" 💻
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+<h1 align="center">Hii 👋, I'm Faizan Shaikh</h1>
+<h3 align="center">A passionate Full-Stack Developer 🚀</h3>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=D3FAD6&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality+with+code!;Building+scalable+and+robust+solutions+🌟;Exploring+world+of+AI+and+Web3✨" />
+</p>
+
+---
+
+<p align="center">
+  🌍 Based in Indore, India<br>
+  💻 Currently working on Corina AI an AI-powered SaaS for advertisement integration & Opal a screen recording & sharing tool<br>
+  📚 Always learning and exploring Cloud Computing, DevOps, and AI<br>
+  🤝 Looking to collaborate on exciting open-source projects
+</p>
+
+---
+
+<p align="center">
+  <strong>🌐 Socials:</strong><br>
+  <a href="https://www.linkedin.com/in/faizan-shaikh-9b4649229">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/faiz_twt">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>💻 Tech Stack:</strong><br>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <strong>📊 GitHub Stats:</strong><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=faiz7077&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz7077&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz7077&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=faiz7077&icon=0&color=0" />
+</p>
+
+<p align="center">
+  🚀 "Keep coding, keep growing!" 💻
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
