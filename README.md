@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <strong>📊 GitHub Stats:</strong><br>
+  <strong>##📊 GitHub Stats:</strong><br>
   <img src="https://github-readme-stats.vercel.app/api?username=faiz7077&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz7077&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz7077&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
