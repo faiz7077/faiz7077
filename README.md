@@ -14,7 +14,7 @@
 
 
 # 💫 About Me:
-<br>🌍 Based in Indore, India<br>💻 Currently working on Corina AI an AI-powered SaaS for advertisement integration & Opal a screen recording & sharing tool
+<br>🌍 Based in India<br>💻 Currently working on Corina AI an AI-powered SaaS for advertisement integration & Opal a screen recording & sharing tool
 <br>📚 Always learning and exploring Cloud Computing, DevOps, and AI<br>🤝 Looking to collaborate on exciting open-source projects
 
 ---
