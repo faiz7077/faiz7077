@@ -13,7 +13,7 @@
 ---
 
 
-<p align="center"># 💫 About Me:</p>  
+<h1 align="center"> 💫 About Me:</h1>  
 <br>🌍 Based in India<br>💻 Currently working on  Opal a screen recording & sharing tool & Corina AI an AI-powered SaaS for advertisement integration &
 <br>📚 Always learning and exploring Cloud Computing, DevOps, and AI<br>🤝 Looking to collaborate on exciting open-source projects
 
