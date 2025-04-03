@@ -39,7 +39,7 @@
 
 ---
 
-
+![](https://komarev.com/ghpvc/?username=faiz7077)
 
 <p align="center">
   🚀 "Keep coding, keep growing!" 💻
