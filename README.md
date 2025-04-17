@@ -8,7 +8,7 @@
 
 
 <h1 align="center"> 💫 About Me</h1>  
-<br>🌍 Based in India<br>💻 Currently working on  Opal : A screen recording & collaboration tool .
+<br>🌍 Based in India<br>💻 Currently working on  Opal : A screen recording & collaboration tool 
 <br>📚 Always learning and exploring Cloud Computing, DevOps, and AI<br>🤝 Looking to collaborate on exciting open-source projects
 
 
