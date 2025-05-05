@@ -36,9 +36,9 @@
 
 ![](https://komarev.com/ghpvc/?username=faiz7077)
 
-<p align="center">
+<!--<p align="center">
   🚀 "Keep coding, keep growing!" 💻
-</p>
+</p> -->
 <!-- Proudly created with ( https://gprm.itsvg.in ) -->
 
 
