@@ -7,7 +7,7 @@
 </p> -->
 
 <h1 align="center"> 💫 About Me</h1>  
-<br>🌍 Based in India<br>💻 Currently working on  12Tweleve Labs : text-to-speech, voice conversion, and audio generation. With trained models supported with a web application for the sound generation and manipulation
+<br>🌍 Based in India<br>💻 Currently working on  12Tweleve Labs : a text-to-speech, voice conversion, and audio generation. With trained models supported with a web application for the sound generation and manipulation
 
 <br>📚 Always learning and exploring AI (agents) & Devops<br>🤝 Looking to collaborate on exciting open-source projects
 
