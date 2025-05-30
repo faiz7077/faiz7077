@@ -1,10 +1,10 @@
 
 <h1 align="center">Hiii 👋,I'm Faizan Shaikh </h1>
 <h3 align="center">A passionate Full-Stack Developer 🚀</h3>
----
+<!-- ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=D3FAF6&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality+with+code!;Building+scalable+and+robust+solutions+🌟;Exploring+world+of+WEB 3+and+A.I.✨" />
-</p>
+</p> -->
 
 <h1 align="center"> 💫 About Me</h1>  
 <br>🌍 Based in India<br>💻 Currently working on Bolty-Worker.
