@@ -10,7 +10,7 @@
 <br>🌍 Based in India<br>💻 Currently working on Bolty-Worker .
 
 
-<br>📚 Always learning and exploring AI (agents) & Devops<br>🤝 Looking to collaborate on exciting open-source projects
+<br>📚 Always learning and exploring AI & Devops<br>🤝 Looking to collaborate on exciting open-source projects
 
 
 
