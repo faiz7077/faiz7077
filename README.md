@@ -13,8 +13,6 @@
 
 <br>📚 Always learning and exploring AI & Devops<br>🤝 Looking for collaborate on exciting open-source projects
 
-
-
 ---
 🌐 Socials
 
