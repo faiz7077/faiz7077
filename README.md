@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=D3FAF6&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality+with+code!;Building+scalable+and+robust+solutions+🌟;Exploring+world+of+WEB 3+and+A.I.✨" />
 </p> -->
-
 <h1 align="center"> 💫 About Me</h1>  
 <br>🌍 Based in India<br>💻 Currently working on Bolty-Worker .
 
