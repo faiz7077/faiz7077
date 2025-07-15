@@ -10,7 +10,6 @@
 
 ---
 
-
 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-shaikh-9b4649229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/faiz_twt) 
